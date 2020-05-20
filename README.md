@@ -1,3 +1,4 @@
+[![Build Status](https://popcamps.visualstudio.com/Space%20Game%20-%20Web/_apis/build/status/jay-coder.mslearn-tailspin-spacegame-web?branchName=master)](https://popcamps.visualstudio.com/Space%20Game%20-%20Web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
